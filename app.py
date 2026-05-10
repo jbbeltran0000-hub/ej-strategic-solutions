@@ -54,7 +54,7 @@ with col2:
 st.divider()
 st.markdown("### 📩 Partner with Environmental Justice Leadership")
 contact_form = """
-<form action="https://formsubmit.co/YOUR_EMAIL_HERE" method="POST">
+<form action="https://formsubmit.co/Jbbeltran0000@gmail.com" method="POST">
      <input type="text" name="name" placeholder="Agency Name" required style="width:100%; margin-bottom:10px;">
      <input type="email" name="email" placeholder="Your Email" required style="width:100%; margin-bottom:10px;">
      <textarea name="message" placeholder="Which project are you interested in implementing?"></textarea>
